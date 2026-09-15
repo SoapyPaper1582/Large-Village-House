@@ -1,0 +1,42 @@
+{
+  "name": "bighousemod:plains_big_house_pool/plains_rooms_bh2",
+  "fallback": "bighousemod:plains_big_house_pool/plains_rooms_bh2",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "bighousemod:village/plains/rooms/plains_room1_big_house_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 3
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "bighousemod:village/plains/rooms/plains_room2_big_house_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 3
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "bighousemod:village/plains/rooms/plains_room3_big_house_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "bighousemod:village/plains/rooms/plains_room4_big_house_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 3
+    }
+  ]
+}

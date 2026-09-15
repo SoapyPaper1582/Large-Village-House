@@ -1,0 +1,15 @@
+{
+  "name": "bighousemod:plains_big_house_pool/start_pool_bh2",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "bighousemod:village/plains/houses/plains_big_house_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ]
+}
