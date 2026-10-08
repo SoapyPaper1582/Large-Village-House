@@ -5,7 +5,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "bighousemod:village/desert/rooms/desert_room1_bh1",
+        "location": "bighousemod:village/desert/rooms/desert_room_1_bh1",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -14,7 +14,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "bighousemod:village/desert/rooms/desert_room2_bh1",
+        "location": "bighousemod:village/desert/rooms/desert_room_2_bh1",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -23,7 +23,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "bighousemod:village/desert/rooms/desert_room3_bh1",
+        "location": "bighousemod:village/desert/rooms/desert_room_3_bh1",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },

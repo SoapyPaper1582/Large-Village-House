@@ -5,7 +5,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "bighousemod:village/plains/rooms/plains_room1_bh2",
+        "location": "bighousemod:village/plains/rooms/plains_room_1_bh2",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -14,7 +14,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "bighousemod:village/plains/rooms/plains_room2_bh2",
+        "location": "bighousemod:village/plains/rooms/plains_room_2_bh2",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
@@ -23,7 +23,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "bighousemod:village/plains/rooms/plains_room3_bh2",
+        "location": "bighousemod:village/plains/rooms/plains_room_3_bh2",
         "processors": "minecraft:mossify_10_percent",
         "projection": "rigid"
       },
