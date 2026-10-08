@@ -355,15 +355,6 @@
         "projection": "rigid"
       },
       "weight": 4
-    },
-    {
-      "element": {
-        "element_type": "minecraft:legacy_single_pool_element",
-        "location": "bighousemod:village/plains/houses/plains_big_house_3",
-        "processors": "minecraft:mossify_10_percent",
-        "projection": "rigid"
-      },
-      "weight": 6
     }
 
 

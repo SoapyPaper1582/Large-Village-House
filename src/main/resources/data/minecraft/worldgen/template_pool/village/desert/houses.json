@@ -307,7 +307,24 @@
         "element_type": "minecraft:empty_pool_element"
       },
       "weight": 5
+    },
+
+
+
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "bighousemod:structure/village/desert/house/desert_big_house_1",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 4
     }
+
+
+
   ],
   "fallback": "minecraft:village/desert/terminators"
 }

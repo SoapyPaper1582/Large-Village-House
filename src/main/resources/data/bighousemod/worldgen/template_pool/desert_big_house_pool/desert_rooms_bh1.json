@@ -1,0 +1,33 @@
+{
+  "name": "bighousemod:desert_big_house_pool/desert_rooms_bh1",
+  "fallback": "bighousemod:desert_big_house_pool/desert_rooms_bh1",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "bighousemod:village/desert/rooms/desert_room1_bh1",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "bighousemod:village/desert/rooms/desert_room2_bh1",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "bighousemod:village/desert/rooms/desert_room3_bh1",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ]
+}
